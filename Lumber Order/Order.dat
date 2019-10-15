@@ -1,0 +1,61 @@
+ Customer#:	1234
+Pieces 	Size 	Wood 	Cost
+5	1x8x8	Maple	$120
+10	1x6x12	Cedar	$60.2667
+5	1x12x12	Cedar	$60.2667
+7	2x4x10	Pine	$23.7333
+6	2x6x12	Pine	$23.7333
+		Total: $288
+ Customer#:	3820
+Pieces 	Size 	Wood 	Cost
+15	2x4x10	Pine	$89
+20	1x6x16	Fir	$109
+6	1x10x8	Oak	$310
+5	2x8x16	Pine	$89
+2	4x4x12	Cedar	$226
+3	1x12x10	Pine	$89
+		Total: $912
+ Customer#:	7923
+Pieces 	Size 	Wood 	Cost
+8	1x6x10	Oak	$124
+5	2x6x8	Oak	$124
+4	1x8x10	Oak	$124
+2	1x12x10	Oak	$124
+		Total: $496
+ Customer#:	2482
+Pieces 	Size 	Wood 	Cost
+10	1x8x10	Cedar	$150.667
+8	2x5x16	Cedar	$150.667
+9	4x6x12	Maple	$300
+5	6x6x12	Fir	$72.6667
+2	1x12x16	Cedar	$150.667
+		Total: $824.667
+ Customer#:	7783
+Pieces 	Size 	Wood 	Cost
+2	1x4x10	Fir	$7.26667
+8	2x5x10	Maple	$30
+		Total: $37.2667
+ Customer#:	4913
+Pieces 	Size 	Wood 	Cost
+15	2x4x9	Pine	$80.1
+20	2x6x24	Pine	$80.1
+14	2x10x20	Pine	$80.1
+20	2x4x10	Pine	$80.1
+1	1x6x10	Fir	$98.1
+10	2x6x12	Fir	$98.1
+		Total: $516.6
+ Customer#:	1178
+Pieces 	Size 	Wood 	Cost
+25	2x4x10	Pine	$148.333
+20	2x4x8	Pine	$148.333
+10	2x4x12	Pine	$148.333
+20	1x6x16	Fir	$181.667
+15	1x4x12	Fir	$181.667
+6	1x10x8	Oak	$516.667
+5	2x8x16	Pine	$148.333
+8	2x8x10	Pine	$148.333
+2	4x4x12	Cedar	$376.667
+2	4x4x8	Cedar	$376.667
+3	1x12x10	Pine	$148.333
+		Total: $2523.33
+ 	
